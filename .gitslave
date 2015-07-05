@@ -2,3 +2,4 @@
 "../meddelare-node-server" "node-server"
 "../meddelare.github.io" "meddelare.github.io"
 "../meddelare-node-express" "node-express"
+"../meddelare-node-counters" "node-counters"
